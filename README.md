@@ -1,3 +1,1 @@
-"# ptt-img-crawler" 
-"# ptt-img-crawler" 
-"# ptt-img-crawler" 
+A crawler script which traces the image links in PTT web interface posts and download them if possible.
